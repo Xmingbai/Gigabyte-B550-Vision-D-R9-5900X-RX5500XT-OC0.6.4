@@ -25,5 +25,8 @@ SSD：影驰 名人堂hof pro m.2 1T
 ![](https://github.com/Xmingbai/Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4/blob/main/R20.png)
 
 
-#  bios 设置
+黑苹果bios设置 参考B站专栏
 
+四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 
+
+https://space.bilibili.com/591453294/article
