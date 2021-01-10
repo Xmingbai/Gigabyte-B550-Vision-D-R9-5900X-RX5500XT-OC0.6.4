@@ -4,6 +4,9 @@ B站对应测评主机：https://b23.tv/kDqzE0
 
 欢迎关注B站：小明和他的女朋友
 
+https://space.bilibili.com/591453294/article
+
+
 ![](https://github.com/Xmingbai/Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4/blob/main/%E5%B0%81%E9%9D%A2.jpg)
 
 
