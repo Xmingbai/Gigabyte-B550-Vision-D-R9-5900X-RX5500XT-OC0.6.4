@@ -1,6 +1,6 @@
 #  Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4 支持big sur 11.1
 
-B站对应测评主机：https://b23.tv/kDqzE0  
+NO.1  B站对应主机测评视频：https://b23.tv/kDqzE0  
 
 欢迎关注B站：小明和他的女朋友
 
@@ -10,7 +10,7 @@ https://space.bilibili.com/591453294/article
 ![](https://github.com/Xmingbai/Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4/blob/main/%E5%B0%81%E9%9D%A2.jpg)
 
 
-#  基本硬件配置清单 及截图
+#  NO.2 基本硬件配置清单 及 macOS截图
 
 CPU：AMD R9 5900X
 
@@ -30,7 +30,7 @@ SSD：影驰 名人堂hof pro m.2 1T
 ![](https://github.com/Xmingbai/Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4/blob/main/R20.png)
 
 
-黑苹果bios设置 参考B站专栏
+#  NO.3 黑苹果bios设置 参考B站专栏
 
 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 
 
