@@ -1,6 +1,6 @@
-#  Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4 支持big sur 11.1
+# Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4 支持big sur 11.1
 
-NO.1  B站对应主机测评视频：https://b23.tv/kDqzE0  
+# NO.1 B站对应主机测评视频：https://b23.tv/kDqzE0  
 
 欢迎关注B站：小明和他的女朋友
 
