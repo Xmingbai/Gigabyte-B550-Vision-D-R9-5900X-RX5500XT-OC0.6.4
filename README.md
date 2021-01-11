@@ -22,6 +22,7 @@ SSD：影驰 名人堂hof pro m.2 1T
 
 显卡：B站视频中主机是RTX3080 更换为蓝宝石 AMD RX5500XT
 
+支持big sur 11.1正式版 
 
 ![](https://github.com/Xmingbai/Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4/blob/main/geekbench.png)
 
