@@ -36,3 +36,12 @@ SSD：影驰 名人堂hof pro m.2 1T
 四大主板厂商华擎、华硕、维修、技嘉 针对性 详细截图 
 
 https://space.bilibili.com/591453294/article
+
+
+# AMD CPU 对应检测工具及驱动
+
+https://github.com/trulyspinach/SMCAMDProcessor/releases
+
+SMCAMDProcessor.kext -VirtualSMC的一个传感器驱动
+
+AMD Power Gadget - 类似于 Intel Power Gadget
