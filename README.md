@@ -2,9 +2,12 @@
 
 # NO.1 B站对应主机测评视频：https://b23.tv/kDqzE0  
 
-欢迎关注B站：小明和他的女朋友
 
-https://space.bilibili.com/591453294/article
+若有其他问题请加Q群：1125705781，备注小明或者B站
+
+也欢迎关注B站：小明和他的女朋友
+
+https://space.bilibili.com/591453294?spm_id_from=333.788.b_765f7570696e666f.2
 
 
 ![](https://github.com/Xmingbai/Gigabyte-B550-Vision-D-R9-5900X-RX5500XT-OC0.6.4/blob/main/%E5%B0%81%E9%9D%A2.jpg)
